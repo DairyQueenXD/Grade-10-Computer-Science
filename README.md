@@ -1,2 +1,3 @@
 # Grade 10 Python Course
-Notes & Exercices & Assignments
+- Introduction to Computer Science (ICS2O) course at school
+- Includes Notes & Exercises & Assignments
